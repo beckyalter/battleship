@@ -1,2 +1,2 @@
-# battleship
- First game build with JS
+# Battleship
+ Full battleship game app!
